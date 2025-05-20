@@ -1,0 +1,52 @@
+body {
+    background-color: #DB699B;
+}
+
+p, li a{ 
+    color: white;
+    font-family: "Jersey 15";
+    letter-spacing: 1px;
+    font-size: larger;
+}
+
+
+nav {
+    width: 100%;
+    padding: 5px;
+}
+
+nav li {
+    list-style-type: none;
+    float: left;
+    width: 33%;
+    
+}
+
+h1 { 
+    color: white;
+    text-align: center;
+    font-family: "Jersey 15";
+    letter-spacing: 2px;
+
+}
+
+.rounded-image { 
+    border-radius:25%;
+    align-self: center;
+}
+
+
+.left-col {
+    width: 50%;
+    float: left;
+}
+
+.right-col {
+    width: 50%;
+    float: right;
+}
+
+
+div {
+    padding: 20px;
+}
