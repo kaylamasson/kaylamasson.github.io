@@ -97,7 +97,17 @@ a {
 
 
 
+#illustration-star :hover {
+    color: #A4B2E6;
+}
 
+#games-star :hover {
+    color: #F8E2B2;
+}
+
+#animation-star :hover {
+    color: #FFB6D9;
+}
 
 /* classes */
 
