@@ -38,7 +38,6 @@ nav li a{
     
     padding: 10px;
     border-radius: 5%;
-    text-decoration: none;
     color: #DB699B;
 
 }
@@ -92,6 +91,10 @@ div {
 
 
 
+a {
+    text-decoration: none;
+}
+
 
 
 
@@ -101,6 +104,7 @@ div {
 .container { 
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 
@@ -140,4 +144,27 @@ div {
 
 .projects-tab {
     background-color: #F8E2B2;
+}
+
+
+.star-icon {
+    width: 250px; 
+    height: 250px;
+    margin: auto;
+    display: block;
+}
+
+.thirds {
+    width: 30%;
+    float: left;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.star-text { 
+    list-style-type: none;
+    text-align: center;
+    font-size: 30pt;
+
+
 }
