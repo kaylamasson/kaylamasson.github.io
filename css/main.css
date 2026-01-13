@@ -67,13 +67,17 @@ h2 {
 
 div {
     padding: 20px;
-    margin: 20px;
 }
 
 
 
 a {
     text-decoration: none;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
 }
 
 
